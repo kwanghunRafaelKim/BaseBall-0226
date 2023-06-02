@@ -1,0 +1,5 @@
+###BASEBALL KATA
+----
+BaseBall
+
+> Hello
